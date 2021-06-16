@@ -8,4 +8,5 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I am lefty 🤚🏻
 
-<img src="https://github-readme-stats.vercel.app/api?username=tentamdin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=tentamdin&theme=algolia&show_icons=true">                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tentamdin&layout=compact&theme=algolia">
+
